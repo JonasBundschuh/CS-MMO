@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{659F9485-8867-4284-BA74-D9226D4D8BF8}</ProjectGuid>
+    <ProjectGuid>{3D2CCACD-B5F4-45DE-874A-6FC8347EF14E}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>CS_RPG</RootNamespace>
-    <AssemblyName>CS RPG</AssemblyName>
+    <RootNamespace>RepeatUebung</RootNamespace>
+    <AssemblyName>RepeatUebung</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,12 +43,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Characters.cs" />
-    <Compile Include="Healer.cs" />
-    <Compile Include="Longrange.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Tank.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

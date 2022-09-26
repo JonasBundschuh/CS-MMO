@@ -1,0 +1,8 @@
+C:\Projetcs\CSRPG\RepeatUebung\RepeatUebung\bin\Debug\RepeatUebung.exe.config
+C:\Projetcs\CSRPG\RepeatUebung\RepeatUebung\bin\Debug\RepeatUebung.exe
+C:\Projetcs\CSRPG\RepeatUebung\RepeatUebung\bin\Debug\RepeatUebung.pdb
+C:\Projetcs\CSRPG\RepeatUebung\RepeatUebung\obj\Debug\RepeatUebung.csproj.AssemblyReference.cache
+C:\Projetcs\CSRPG\RepeatUebung\RepeatUebung\obj\Debug\RepeatUebung.csproj.SuggestedBindingRedirects.cache
+C:\Projetcs\CSRPG\RepeatUebung\RepeatUebung\obj\Debug\RepeatUebung.csproj.CoreCompileInputs.cache
+C:\Projetcs\CSRPG\RepeatUebung\RepeatUebung\obj\Debug\RepeatUebung.exe
+C:\Projetcs\CSRPG\RepeatUebung\RepeatUebung\obj\Debug\RepeatUebung.pdb
